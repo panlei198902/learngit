@@ -7,3 +7,4 @@ Master
 Creating a new branch is quick AND simple.
 
  Cahnge
+A new fuction
